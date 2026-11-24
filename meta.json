@@ -1,0 +1,63 @@
+{
+ "flows": [
+  {
+   "channel": "YouTube",
+   "headline": "بيع سيارتك مجاناً اليوم",
+   "paywall_opens_on": "their own car at the top of the list with your Turbo badge",
+   "note": "one question, the make; the listing goes live for free before any price"
+  },
+  {
+   "channel": "YouTube",
+   "headline": "بيع أي شيء مجاناً",
+   "paywall_opens_on": "Free, Repost and Premium side by side",
+   "note": "the camera first; one photo publishes free"
+  },
+  {
+   "channel": "YouTube",
+   "headline": "بيع عقارك مجاناً اليوم",
+   "paywall_opens_on": "4.6 from 41,687 Saudi ratings and two reviews, then VIP",
+   "note": "the phone number asked as “receive calls”"
+  }
+ ],
+ "prices": {
+  "packages": "9.99 to 59.99 ر.س",
+  "trial": "none",
+  "source": "Saudi App Store In-App Purchases (ten packages, each named “Package”); which package buys which product is not public"
+ },
+ "today": {
+  "text": "every install meets the same first launch: the home feed, then the posting form, where reviews say any payment appears at the end",
+  "source": "audit_frames"
+ },
+ "ideas": [
+  {
+   "n": 1,
+   "title": "The listing goes live before any price",
+   "screen": "Your listing",
+   "outcome": "CR +10–20%"
+  },
+  {
+   "n": 2,
+   "title": "Promote it on their own listing",
+   "screen": "Promote",
+   "outcome": "CR +10–20%"
+  },
+  {
+   "n": 3,
+   "title": "Arrive on the ad’s promise, and say what’s free",
+   "screen": "Arrive",
+   "outcome": "CR +5–15%"
+  },
+  {
+   "n": 4,
+   "title": "One question the ad didn’t answer, used twice",
+   "screen": "One question",
+   "outcome": "CR +5–15%"
+  },
+  {
+   "n": 5,
+   "title": "Catch the people who close it",
+   "screen": "On close",
+   "outcome": "ARPU +10–15%"
+  }
+ ]
+}
